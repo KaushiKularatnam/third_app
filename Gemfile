@@ -11,6 +11,7 @@ gem 'json'
 group :development do
   gem 'rspec-rails', '2.6.1'
 end
+gem 'spork', '0.9.0.rc8'
 
 group :test do
   gem 'rspec-rails', '2.6.1'
